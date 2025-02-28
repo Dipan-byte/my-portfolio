@@ -28,11 +28,15 @@
 }
 .imageAboutme{
     border: 1px solid black ;
+    flex: 1;
+    padding: 50px;
 
 }
 .miniContainer{
     border: 1px solid black ;
     width: 550px;
+    flex: 2;
+    padding: 50px;
 
 }
 .containerHeader{
