@@ -4,43 +4,38 @@
     
 }
 .heading{
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 60px;
 
 }
-/* .heading1{
+
+
+.containerAboutme{
     /* border: 1px solid black ; */
-
- */
-.container{
-    border: 1px solid black ;
-
-}
-.container1{
-    border: 1px solid black ;
     display: flex;
     justify-content: space-evenly;
     height: 550px;
 
 }
 .imageAboutme{
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
     flex: 1;
     padding: 50px;
 
 }
 .miniContainer{
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
     width: 550px;
     flex: 2;
     padding: 50px;
+    padding-top: 20px;
 
 }
 .containerHeader{
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
     height: 70px;
     display: flex;
     justify-content: space-evenly;
@@ -51,7 +46,7 @@
 
 }
 .bottonContainer{
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
     width: 500px ;
     display: flex;
     justify-content: space-evenly;
@@ -64,7 +59,7 @@
 .qualificationsBtn , .skillsBtn , .hobiesBtn , .personalInfoBtn{
     border-radius: 18px ;
     width: 120px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 36px;
     background-color: rgb(188,188,188);
     font-weight: bolder;

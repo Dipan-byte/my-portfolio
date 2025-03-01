@@ -1,1 +1,6 @@
 #first code
+
+#66D2CE
+#2DAA9E
+#EAEAEA
+#E3D2C3

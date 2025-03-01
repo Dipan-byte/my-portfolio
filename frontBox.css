@@ -9,11 +9,11 @@
     display: flex;
     justify-content: space-evenly;
     
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: 60px;
 }
 .firstPart{
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
     display : flex ;
     flex-direction: column;
     justify-content: space-evenly;
@@ -45,5 +45,5 @@
     
 }
 .secondPart{
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
